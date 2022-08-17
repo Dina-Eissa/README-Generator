@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# README-Generator
-=======
 
-  # README Generator
+  # Readme Generator
   
   
   ![badge](https://img.shields.io/badge/license-MIT License-blue)
@@ -23,7 +20,7 @@
   undefined
   undefined
   ## [Installation](#table-of-contents)
-  Run npm init, install dependencies, run node index.js
+  run npm init, install dependencies, run node index.js
   ## [Usage](#table-of-contents)
   undefined
   
@@ -49,4 +46,3 @@
   Please contact me using the following links:
   [GitHub](https://github.com/undefined)
   [Email: dinamshawky@gmail.com](mailto:dinamshawky@gmail.com)
->>>>>>> 464b51f (readme generator code)
